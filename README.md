@@ -1,4 +1,6 @@
 # Task Challenge: AI Document Classifier with Web Interface
+Thanks for applying for this role at Yamasoft. We've put together this code challenge. It should take around four hours to complete, do not invest more time.
+
 ## Context:
 You are working on an AI platform that helps enterprises automatically classify and summarize documents (e.g., contracts, research papers, or receipts) based on their content. Your task is to create a prototype that demonstrates the core functionality of this platform.
 ## Requirements:
